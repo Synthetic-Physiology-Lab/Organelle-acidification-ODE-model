@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# Folers
+__pycache__
